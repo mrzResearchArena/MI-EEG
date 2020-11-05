@@ -34,7 +34,7 @@ Cloning a repository syncs it to our local machine (Example for Linux-based OS).
 
 Feature Generate Process
 |----------------------|
-|<img src="https://github.com/mrzResearchArena/MI-EEG/blob/master/model-EEG.png" width="350" height="450" /> |
+|<img align="center" src="https://github.com/mrzResearchArena/MI-EEG/blob/master/model-EEG.png" width="350" height="450" /> |
 &nbsp;
 
 
