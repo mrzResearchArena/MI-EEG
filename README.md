@@ -38,10 +38,6 @@ Feature Generate Process
 
 &nbsp;
 
-<img align="center" src="https://github.com/mrzResearchArena/MI-EEG/blob/master/model-EEG.png" width="350" height="450" />
-
-&nbsp;
-
 
 
 
