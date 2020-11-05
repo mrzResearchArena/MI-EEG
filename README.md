@@ -30,11 +30,11 @@ Cloning a repository syncs it to our local machine (Example for Linux-based OS).
 &nbsp;
 
 
-### 2. How does it works?
+### 2. How does it works (Machine Learning Perspective / CluSem)?
 
 Feature Generate Process
 |----------------------|
-|<img src="https://github.com/mrzResearchArena/MI-EEG/blob/master/model-EEG.png" width="550" height="350" /> |
+|<img src="https://github.com/mrzResearchArena/MI-EEG/blob/master/model-EEG.png" width="600" height="400" /> |
 &nbsp;
 
 
