@@ -49,5 +49,5 @@ The source code of the Machine Learning model are available on the open-source r
 ### 5. Brain-Games (CluGame):
 The source code of the Brain-Games are available on the open-source repository. Please [click](https://github.com/mrzResearchArena/MI-EEG/tree/master/Brain-Game) for the download.
 
-<img align="center" src="https://github.com/mrzResearchArena/MI-EEG/blob/master/brain-game.pdf" width="350" height="450" />
+<img align="center" src="https://github.com/mrzResearchArena/MI-EEG/blob/master/brain-game.png" width="350" height="450" />
 
