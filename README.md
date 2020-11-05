@@ -29,3 +29,14 @@ Cloning a repository syncs it to our local machine (Example for Linux-based OS).
 
 &nbsp;
 
+
+### 2. How does it works?
+
+Feature Generate Process
+|----------------------|
+|<img src="https://github.com/mrzResearchArena/MI-EEG/blob/master/model-EEG.png" width="550" height="350" /> |
+&nbsp;
+
+
+
+
