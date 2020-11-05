@@ -42,12 +42,14 @@ Feature Generate Process
 
 The datasets are available on the open-source repository. Please [click](https://github.com/mrzResearchArena/MI-EEG/tree/master/Datasets) for the download.
 
+&nbsp;
+
 ### 4. Machine Learning (CluSem):
 The source code of the Machine Learning model are available on the open-source repository. Please [click](https://github.com/mrzResearchArena/MI-EEG/tree/master/Machine-Learning) for the download.
 
+&nbsp;
 
 ### 5. Brain-Games (CluGame):
 The source code of the Brain-Games are available on the open-source repository. Please [click](https://github.com/mrzResearchArena/MI-EEG/tree/master/Brain-Game) for the download.
 
-<img align="center" src="https://github.com/mrzResearchArena/MI-EEG/blob/master/brain-game.png" width="700" height="400" />
-
+<img align="center" src="https://github.com/mrzResearchArena/MI-EEG/blob/master/brain-game.png" width="800" height="400" />
